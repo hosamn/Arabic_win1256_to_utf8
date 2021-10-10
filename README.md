@@ -6,4 +6,4 @@ Intended for converting the encoding of arabic subtitle files.
 
 *TODO:*
  * loop on all file types.
- * give a full report at the end
+ * ~~give a full report at the end~~
